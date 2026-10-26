@@ -13,6 +13,7 @@ O **NTH (Network Hacking Toolkit)** foi desenvolvido para otimizar o fluxo de tr
 ---
 
 ## 📷 Imagens
+<img width="622" height="502" alt="Captura de Tela 2026-10-26 às 17 24 53" src="https://github.com/user-attachments/assets/6f14697a-b56c-4801-b505-80e5491c7265" />
 
 
 
